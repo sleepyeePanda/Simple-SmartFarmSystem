@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="imgsources">
+    <file>chart.png</file>
+    <file>repairing.png</file>
+    <file>prelogodesign.png</file>
+  </qresource>
+</RCC>
